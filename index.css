@@ -31,7 +31,7 @@ section.character {
   grid-template-rows: 150px;
   margin: 10px;
   border: 1px solid rgb(41, 41, 41);
-  border-radius: 5px;
+  border-radius: 8px;
   background-color: rgba(255, 255, 255, 0.2);
   backdrop-filter: blur(5px);
 }
@@ -56,8 +56,8 @@ div.c-details-down {
 .c-img {
   width: 150px;
   height: 150px;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
 }
 p.d-name {
   font-weight: bolder;
